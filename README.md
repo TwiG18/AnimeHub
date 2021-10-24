@@ -1,0 +1,2 @@
+# AnimeHub
+All About Anime
